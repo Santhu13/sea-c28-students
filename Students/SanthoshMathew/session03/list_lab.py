@@ -10,7 +10,7 @@ length=len(fruits)
 print length
 print ("give me a number that is between 1 and", length)
 num=int(raw_input(""))
-print "OK no", num, "it is..and the fruit you picked is:", fruits[num-1]
+print "OK no", num, "it is....and the fruit you picked is:", fruits[num-1]
 # Add using "+"
 fruits = ["Kiwi"]+fruits 
 print fruits
