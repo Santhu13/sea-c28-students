@@ -20,8 +20,6 @@ def gettwogoodnums():
  
     return (m,n) 
  
- 
- 
 def acker(m, n):
     """calculate Ackermann function acker(m, n)
  
